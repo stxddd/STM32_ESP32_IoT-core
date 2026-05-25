@@ -1,0 +1,10 @@
+../Core/Src/main.c:77:14:clamp	3
+../Core/Src/main.c:83:7:randf	1
+../Core/Src/main.c:87:6:GenerateTelemetry	2
+../Core/Src/main.c:130:5:PackTelemetryJSON	3
+../Core/Src/main.c:143:6:SendTelemetryUART	1
+../Core/Src/main.c:157:5:main	2
+../Core/Src/main.c:212:6:SystemClock_Config	3
+../Core/Src/main.c:252:13:MX_USART1_UART_Init	2
+../Core/Src/main.c:285:13:MX_GPIO_Init	1
+../Core/Src/main.c:308:6:Error_Handler	1
